@@ -1,0 +1,2 @@
+
+git init is used to intialize the git repository and after intializing the git repo you need to create a file and you have to add it it means we are saving that thing aftr adding do commit that helps you to edit any changes if required.
